@@ -1,1 +1,12 @@
-# css-sidebar-miniproject
+# CSS Sidebar Menu Project
+
+A single-page responsive sidebar menu built using HTML and CSS only.
+
+## Features
+- Sidebar toggle using checkbox hack
+- Font Awesome icons
+- Google Fonts
+- Smooth transitions
+
+## Live Demo
+https://IshaRanjan.github.io/css-sidebar-project/
