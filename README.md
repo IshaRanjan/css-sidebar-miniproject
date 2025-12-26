@@ -9,4 +9,4 @@ A single-page responsive sidebar menu built using HTML and CSS only.
 - Smooth transitions
 
 ## Live Demo
-https://IshaRanjan.github.io/css-sidebar-project/
+https://isharanjan.github.io/css-sidebar-miniproject/
